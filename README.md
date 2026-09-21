@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sina Rahimi
--  🌈I’m interested in developing Apps , Reading Sci-fi Books, movies, games, and documentaries 
--  🔶I’m looking to collaborate on anything that can improve my skills in work and personal life.
+-  🌈I’m interested in developing Apps, Reading Sci-fi Books, movies, games, and documentaries 
 - 📞 How to reach me <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" /> 	
 <div id="badges">
   <a href="https://www.linkedin.com/in/sina-rahimi/">
