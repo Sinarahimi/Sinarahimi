@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div id="header" align="center">
-  <img src="https://uploadkon.ir/uploads/45e921_26Cooding-sar.gif" alt="Description of the GIF" width="300" height="200">
+  <img src="https://uploadkon.ir/uploads/45e921_26Cooding-sar.gif" alt="Description of the GIF" width="300"  >
 </div>
   
 </div>
