@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div id="header" align="center">
-  <img src="https://uploadkon.ir/uploads/42ac21_26ChatGPT-Image-Sep-21-2026-04-06-35-PM.png" width="200"/>
+  <img src="https://uploadkon.ir/uploads/45e921_26Cooding-sar.gif" width="200"/>
 </div>
 </div>
 
