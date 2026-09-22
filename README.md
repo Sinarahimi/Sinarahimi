@@ -9,7 +9,7 @@
   
 </div>
 <div id="header" align="center">
-  <img src="https://uploadkon.ir/uploads/45e921_26Cooding-sar.gif" alt="Description of the GIF" width="300"  >
+  <img src="https://uploadkon.ir/uploads/45e921_26Cooding-sar.gif" alt="Description of the GIF" width="200"  >
 </div>
 <img width="540" height="596" alt="Cooding_sar" src="https://github.com/user-attachments/assets/31615158-ee64-4b9b-8b43-9436435f854c" />
 
